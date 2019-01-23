@@ -1,10 +1,9 @@
 # Baked Buffalo Cauliflower
 
-## Recipe:
+## Recipe
 
 **Cost**: $7-$8    
 **Servings**: 4    
-**Time**:    
 
 |Stage|Time|
 |:---:|:---:|
@@ -47,7 +46,7 @@
 
 1. Preheat the oven to 450˚F (230˚C). Line a baking sheet with parchment paper.
 
-  *Note:* Steps 2 & 3 can be done in parallel.
+&nbsp;&nbsp;&nbsp;&nbsp;*Note:* Steps 2 & 3 can be done in parallel.
 
 2. In a large bowl, add the flour, paprika, garlic powder, salt, pepper, and milk, and stir until well-combined.
 
@@ -56,7 +55,7 @@
 4. In a small bowl, combine the buffalo sauce, coconut oil, and honey and stir until evenly combined. Brush the buffalo sauce mixture on the cauliflower and bake for another 20 minutes.
 
 
-Found in ["Tasty: latest and greatest"](https://www.indiebound.org/book/9780525575641)\
+Found in ["Tasty: latest and greatest"](https://www.indiebound.org/book/9780525575641)     
 [Digital Link](https://tasty.co/recipe/buffalo-cauliflower)
 
 ## Notes
