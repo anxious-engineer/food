@@ -62,7 +62,7 @@ Found in ["Tasty: latest and greatest"](https://www.indiebound.org/book/97805255
 
 ### Attempt 1 - 1/22/19
 
-**Cooking Notes:**
+**Cooking Notes**
 
 Cauliflower
   - Found success pulling the heads apart from the roots instead of trying to pull from the top.
@@ -77,7 +77,8 @@ Coconut/Vegetable Oil
 Hot Sauce
   - We used Franks Red Hot Wings Sauce
 
-**Taste Notes:**
+**Taste Notes**
+
 Tasted alot like Chicken Wings in initial texture, just with a veggie internal texture.
 
 Sauce was very good standalone, could go well with other things
