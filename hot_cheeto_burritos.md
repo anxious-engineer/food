@@ -26,7 +26,7 @@
 - 1 teaspoons salt
 
 *Toppings:*
-- ¼ cup  mexican sour cream
+- ¼ cup sour cream
 - 8 oz  flaming hot cheetos
 
 *Burritos:*
@@ -72,4 +72,14 @@ Marinating Steak
 
 **Taste Notes**
 
+A tad dry, but lots of kick.
+
+We included hot salsa in our burritos and it was nice touch.
+
+Ended up getting 4 burritos total out of the full pound of steak.
+
 **Report & Tips**
+
+I personally would have preferred a little less of a dry flavoring overall, so maybe cooking the steak a little shorter would have been better (we cooked just over the 20 minute mark).
+
+The Cheetos by themselves were a little too big to handle naturally in the burritos, so breaking them into thirds or fourths made it easier to distribute them throughout each burrito.
